@@ -1,8 +1,8 @@
 ### ROS-INISTALL
 
-####  the task need to writing steps for ROS install ! 
+####  the task want to writing steps for ROS install ! 
 
- ##### so the ROS INISTALL STEPS :
+ ##### ROS INISTALL STEPS :
 
 1-Download VM VirtualBox 6.1.34 All download steps are by clicking Next, then Install.
 
